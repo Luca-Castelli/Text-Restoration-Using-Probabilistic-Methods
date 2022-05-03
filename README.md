@@ -1,4 +1,4 @@
-# Text-Restoration-Using-Probabilistic-Methods
+## Text-Restoration-Using-Probabilistic-Methods
 
 ### Abstract
 This report combines the results of Geman and Geman’s Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images (1984) and Mumford, Wu, and Zhu’s
