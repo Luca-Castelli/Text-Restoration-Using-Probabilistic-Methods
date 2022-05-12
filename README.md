@@ -14,8 +14,15 @@ gradient descent procedure is followed while making use of the Gibbs Sampler.
 
 ### Snippets of the Report
 Filtering:
+
 ![pic of filters](filters.PNG)
+
+
 Texture Synthesis:
+
 ![pic of texture](texture.PNG)
+
+
 Smoothing of image:
+
 ![pic of smoothing](sweeps.PNG)
