@@ -12,4 +12,4 @@ the maximum entropy principle, filters and Markov random fields. Filters are sel
 capture characteristics of images, histograms are generated from the filtered images, and a
 gradient descent procedure is followed while making use of the Gibbs Sampler.
 
-![pic of filters](filters.png)
+![pic of filters](filters.PNG)
