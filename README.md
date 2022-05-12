@@ -23,6 +23,6 @@ Texture Synthesis:
 ![pic of texture](texture.PNG)
 
 
-Smoothing of image:
+Smoothing of an Image:
 
 ![pic of smoothing](sweeps.PNG)
