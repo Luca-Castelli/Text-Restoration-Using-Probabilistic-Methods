@@ -11,3 +11,5 @@ FRAME algorithm to learn suitable image priors. The FRAME methodology makes use 
 the maximum entropy principle, filters and Markov random fields. Filters are selected to
 capture characteristics of images, histograms are generated from the filtered images, and a
 gradient descent procedure is followed while making use of the Gibbs Sampler.
+
+![pic of filters](filters.png)
